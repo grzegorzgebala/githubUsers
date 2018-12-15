@@ -1,0 +1,31 @@
+.users {
+	display: flex;
+	flex-wrap: wrap;
+	justify-content: center;
+	align-items: center;
+	flex-direction: column;
+	margin: 20px 33px;
+}
+
+.users a {
+	margin: 10px 0;
+}
+
+.list {
+	display: flex;
+	flex-wrap: wrap;
+}
+
+.topic {
+	font-size: 24px;
+}
+
+.input {
+	height: 30px;
+	width: 120px;
+	margin-left: 30px;
+}
+
+form {
+	text-align: center;
+}
